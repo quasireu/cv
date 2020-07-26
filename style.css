@@ -1,0 +1,36 @@
+  body {
+
+    background-color: #dbe2ef;
+  }
+
+  
+
+  hr {
+    background-color: white;
+    border-style:  inset ;
+    height: 2px;
+    width:85%;
+
+  }
+  /*pos leitourgei to class etsi oste na allazo oti thelo*/
+
+  /*an eixa id paromoio kai iperkaliptei to h1 px #a.Episis to id einai monadiko */
+  .a{
+    background-color: powderblue;
+  }
+  h3 {
+    background-color: powderblue;
+    width:23%
+
+  }
+
+  h5{
+    color:black;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  h1{
+    color:black;
+    text-align: center;
+  }
